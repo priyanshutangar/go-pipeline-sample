@@ -31,4 +31,4 @@ MIT License
 
 ## Trigger
 
-Let's check the trigger working or not. It should work. HAHAHAHA.
+Let's check the trigger working or not.
