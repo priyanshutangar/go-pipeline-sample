@@ -1,6 +1,6 @@
 # Go Sample Pipelines in Harness
 
-Introduction to Jungle and Harmony of Music
+Introduction to Jungle
 ========================
 This repository is a home for snippets of YAML code and a sample hello world server for the Harness CI Community.
 
